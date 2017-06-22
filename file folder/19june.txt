@@ -1,0 +1,26 @@
+msg in signup page for succcesful registration
+
+when login successfully display name
+and logout option when he logged in
+
+
+
+when submit button is clicked
+
+
+verify it is true
+if i
+
+t is then display it with the message
+else
+redirect to the same page
+
+
+
+ways i can do
+
+
+send javascript variable to python based on that redirect it
+
+else
+

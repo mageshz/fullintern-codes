@@ -1,0 +1,37 @@
+create session for login
+
+for logout
+--invalidate sesssion
+--redirect to the login pag-------
+
+===========================================
+
+---sucees signup create cookie and 
+
+/////////////login to the welcome page
+
+----create logout and redirect to the login page
+
+------------steps to considerddd
+
+----login 
+
+while login check if the user  already had cookies
+if yes
+go to the welcome page of the user using cookies already
+
+else
+go to the
+
+
+
+
+------------------
+how to send the JSON  code
+
+know how to send use json in ajax requests and response
+
+complete login using cookies 
+
+
+how to generate UID learn it

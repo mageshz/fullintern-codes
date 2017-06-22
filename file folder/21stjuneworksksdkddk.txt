@@ -1,0 +1,21 @@
+cookies login and logout
+email cookie encode,,,password encode,,,json format data send,,,
+
+
+dsfdsfsd
+
+if cookies set redirect to welcome page
+
+blog
+
+-username return
+-
+
+
+
+when opening
+
+show all blogs created with whom it creates in the home page
+/welcome page redirect if not logged in
+
+
